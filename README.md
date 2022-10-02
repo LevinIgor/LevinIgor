@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Levin Ihor</h1>
-<h2 align="center">Front - end delevoper from Ukraine</h2>
+<h2 align="center">Frontend delevoper from Ukraine</h2>
 
 # ⚙️ Tech stack
  - 🤖 Typescript / 🧩 JavaScript (ES6+)
