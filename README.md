@@ -3,14 +3,14 @@
 
 # ⚙️ Tech stack
  - 🤖 Typescript / 🧩 JavaScript (ES6+)
- -  👽 Vue.js / 🐢 React.js
-	 - 🔍 v.2 - v.3
+ -  👽 Vue.js v.2 - v.3
 	 - 📖 API - Composition / Options
 	 - 🛻 Vue Router
 	 - 📦 VueX
 	 - 📡 Nuxt.js SSR
 	 - 📚 Bootstrap Vue
-	 - 🗃 Vuetify
+	 - 🗃  Vuetify
+	 - 📚 Tailwind
 - 🔥 Firebase
 	- ⛓ Database
 	- 🛡 Authentications
